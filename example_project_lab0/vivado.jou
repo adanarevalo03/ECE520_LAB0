@@ -23,3 +23,4 @@
 #-----------------------------------------------------------
 start_gui
 open_project C:/Users/aliso/Desktop/ECE520_SPRING26/ECE520_LAB0/example_project_lab0/example_project_lab0.xpr
+update_compile_order -fileset sources_1
