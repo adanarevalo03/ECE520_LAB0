@@ -1,0 +1,34 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Tue Jan 27 23:30:17 2026
+# Process ID         : 23740
+# Current directory  : C:/Users/aliso/Desktop/ECE520_SPRING26/ECE520_LAB0/example_project_lab0
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent9812 C:\Users\aliso\Desktop\ECE520_SPRING26\ECE520_LAB0\example_project_lab0\example_project_lab0.xpr
+# Log file           : C:/Users/aliso/Desktop/ECE520_SPRING26/ECE520_LAB0/example_project_lab0/vivado.log
+# Journal file       : C:/Users/aliso/Desktop/ECE520_SPRING26/ECE520_LAB0/example_project_lab0\vivado.jou
+# Running On         : Adan_Arevalo
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : AMD Ryzen 7 9800X3D 8-Core Processor           
+# CPU Frequency      : 4700 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 33377 MB
+# Swap memory        : 2147 MB
+# Total Virtual      : 35525 MB
+# Available Virtual  : 13816 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/aliso/Desktop/ECE520_SPRING26/ECE520_LAB0/example_project_lab0/example_project_lab0.xpr
+WARNING: [Board 49-26] cannot add Board Part digilentinc.com:genesys2:part0:1.1 available at C:/Xilinx/Vivado/2024.2/data/boards/board_files/genesys2/H/board.xml as part xc7k325tffg900-2 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part digilentinc.com:sword:part0:1.0 available at C:/Xilinx/Vivado/2024.2/data/boards/board_files/sword/C.0/board.xml as part xc7k325tffg900-2 specified in board_part file is either invalid or not available
+INFO: [Project 1-313] Project file moved from 'C:/Users/aliso/Desktop/ECE520_SPRING26/example_project_lab0' since last save.
+INFO: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'C:/Users/aliso/Desktop/ECE520_SPRING26/ECE520_LAB0/example_project_lab0/example_project_lab0.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2024.2/data/ip'.

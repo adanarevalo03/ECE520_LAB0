@@ -35,7 +35,7 @@ inverter UUT_inverter
 
 initial begin
     clk = 1'b0;
-    forvever #(5) clk = ~clk;
+    forever #(5) clk = ~clk;
 end
 
 initial begin

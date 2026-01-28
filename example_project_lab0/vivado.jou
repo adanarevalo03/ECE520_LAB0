@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Tue Jan 27 23:30:17 2026
+# Process ID         : 23740
+# Current directory  : C:/Users/aliso/Desktop/ECE520_SPRING26/ECE520_LAB0/example_project_lab0
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent9812 C:\Users\aliso\Desktop\ECE520_SPRING26\ECE520_LAB0\example_project_lab0\example_project_lab0.xpr
+# Log file           : C:/Users/aliso/Desktop/ECE520_SPRING26/ECE520_LAB0/example_project_lab0/vivado.log
+# Journal file       : C:/Users/aliso/Desktop/ECE520_SPRING26/ECE520_LAB0/example_project_lab0\vivado.jou
+# Running On         : Adan_Arevalo
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : AMD Ryzen 7 9800X3D 8-Core Processor           
+# CPU Frequency      : 4700 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 33377 MB
+# Swap memory        : 2147 MB
+# Total Virtual      : 35525 MB
+# Available Virtual  : 13816 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/aliso/Desktop/ECE520_SPRING26/ECE520_LAB0/example_project_lab0/example_project_lab0.xpr
